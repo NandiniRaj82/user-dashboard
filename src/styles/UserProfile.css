@@ -1,0 +1,26 @@
+.user-profile {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    margin-left: 500px;
+  }
+  
+  .user-profile h2 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  
+  .user-profile p {
+    font-size: 16px;
+    color: #555555;
+    margin: 5px 0;
+  }
+  
+  .user-profile .highlight {
+    font-weight: 600;
+    color: #4a90e2;
+  }
+  
